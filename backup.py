@@ -8,7 +8,10 @@ def get_devices():
             "host":"devnetsandboxiosxec8k.cisco.com",
             "username":"redwanabdurhmanlilay",
             "password":"Q-poJ27vh2_WR",
-    }]
+    },
+       
+           
+]
 
 def get_commands():
     return ["show running-config"]
